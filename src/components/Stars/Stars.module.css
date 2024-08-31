@@ -1,0 +1,8 @@
+.starsContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.cardBodyStars {
+  display: flex;
+}
